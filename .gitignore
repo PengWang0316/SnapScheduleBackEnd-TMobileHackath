@@ -1,0 +1,11 @@
+node_modules
+.env
+dist
+ubuntu@
+ssl
+TransforCode
+coverage
+letsencrypt
+.coveralls.yml
+Information.txt
+.DS_Store
